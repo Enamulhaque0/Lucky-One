@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "dell vostro-2211",
+    "price": 20000,
+    "img": "https://url-enamul.netlify.app/images/laptop1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "dell vostro-3331",
+    "price": 30000,
+    "img": "https://url-enamul.netlify.app/images/laptop2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "dell vostro-4421",
+    "price": 40000,
+    "img": "https://url-enamul.netlify.app/images/laptop3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "dell vostro-5531",
+    "price": 50000,
+    "img": "https://url-enamul.netlify.app/images/laptop4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "dell vostro-6643",
+    "price": 60000,
+    "img": "https://url-enamul.netlify.app/images/laptop5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "dell vostro-7732",
+    "price": 70000,
+    "img": "https://url-enamul.netlify.app/images/laptop6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "dell vostro-8878",
+    "price": 80000,
+    "img": "https://url-enamul.netlify.app/images/laptop7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "dell vostro-9921",
+    "price": 90000,
+    "img": "https://url-enamul.netlify.app/images/laptop8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "dell vostro-1090",
+    "price": 99999,
+    "img": "https://url-enamul.netlify.app/images/laptop9.jpg"
+  }
+]
