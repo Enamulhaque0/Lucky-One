@@ -18,9 +18,13 @@ const Cart = (props) => {
               removeProduct={removeProduct}
               ></SelectedProduct>
           ))}
+
+
      </div>
+
+     
      <div>
-         <button onClick={chooseForMe} className='btn btn-success'>
+         <button onClick={chooseForMe}   className='btn btn-success'>
           Choose One For Me
          </button>
 
